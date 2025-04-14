@@ -1,0 +1,143 @@
+﻿Order ID,Order Date,Ship Date,Region,City,Category,Sub-Category,Product Name,Sales (₹),Quantity,Discount,Profit (₹)
+IN-2024-001,01-08-2024,05-08-2024,South,Bangalore,Electronics,Mobiles,Samsung Galaxy S22,55999,3,0.05,8000
+IN-2024-002,01-08-2024,05-08-2024,South,Bangalore,Electronics,Mobiles,Samsung Galaxy S22,55999,3,0.05,8000
+IN-2024-003,02-08-2024,07-08-2024,South,Chennai,Furniture,Chairs,Spacewood Dining Chair,6999,2,0.1,900
+IN-2024-004,02-08-2024,07-08-2024,South,Chennai,Furniture,Chairs,Spacewood Dining Chair,6999,4,0.1,1200
+IN-2024-005,03-08-2024,08-08-2024,South,Hyderabad,Electronics,Appliances,IFB Microwave Oven,15499,1,0.1,2500
+IN-2024-006,03-08-2024,08-08-2024,West,Mumbai,Electronics,Accessories,Boat Rockerz Headphones,1999,10,0.1,800
+IN-2024-007,05-08-2024,10-08-2024,South,Cochin,Furniture,Sofas,Urban Ladder L-Shaped Sofa,44999,1,0.15,7000
+IN-2024-008,18-08-2024,23-08-2024,West,Pune,Furniture,Chairs,Durian Premium Chair,8999,3,0.1,1200
+IN-2024-009,01-09-2024,06-09-2024,South,Cochin,Furniture,Sofas,Urban Ladder L-Shaped Sofa,44999,1,0.15,7000
+IN-2024-010,01-09-2024,06-09-2024,West,Pune,Furniture,Shelves,Godrej Wall Shelf,2599,3,0,650
+IN-2024-011,02-09-2024,08-09-2024,South,Mysore,Electronics,Accessories,Boat Rockerz Headphones,1999,10,0.1,800
+IN-2024-012,02-09-2024,08-09-2024,South,Coimbatore,Electronics,Laptops,HP Envy x360,74999,1,0.05,5000
+IN-2024-013,05-09-2024,10-09-2024,South,Trivandrum,Office Supplies,Paper,JK Copier A4 Paper,250,200,0,400
+IN-2024-014,05-09-2024,10-09-2024,East,Patna,Office Supplies,Paper,JK Copier A4 Paper,250,200,0,400
+IN-2024-015,10-09-2024,15-09-2024,South,Mysore,Electronics,Mobiles,iPhone 14,79999,1,0.05,6000
+IN-2024-016,12-09-2024,18-09-2024,South,Bangalore,Furniture,Tables,Urban Ladder Work Table,11499,2,0.1,2000
+IN-2024-017,18-09-2024,24-09-2024,East,Bhubaneswar,Electronics,Appliances,Philips Air Fryer,12499,2,0.1,2000
+IN-2024-018,20-09-2024,25-09-2024,South,Madurai,Office Supplies,Binders,Solo Ring Binder,499,30,0,300
+IN-2024-019,25-09-2024,30-09-2024,West,Ahmedabad,Furniture,Sofas,Urban Ladder Recliner Sofa,37999,1,0.15,5500
+IN-2024-020,28-09-2024,02-10-2024,North,Lucknow,Electronics,Mobiles,OnePlus 11R,44999,2,0.05,5000
+IN-2024-021,01-10-2024,06-10-2024,North,Delhi,Electronics,TVs,Samsung Crystal UHD TV,34999,1,0.05,3000
+IN-2024-022,02-10-2024,08-10-2024,West,Mumbai,Furniture,Sofas,Durian Recliner Sofa,32999,1,0.15,4500
+IN-2024-023,03-10-2024,09-10-2024,East,Kolkata,Office Supplies,Markers,Faber-Castell Marker,250,50,0,200
+IN-2024-024,05-10-2024,10-10-2024,South,Bangalore,Electronics,Laptops,MacBook Air M2,104999,1,0.05,8000
+IN-2024-025,08-10-2024,12-10-2024,East,Kolkata,Office Supplies,Notebooks,Classmate A5 Notebook,350,50,0,120
+IN-2024-808,10-10-2024,15-10-2024,South,Chennai,Furniture,Cabinets,Godrej Wooden Cabinet,13999,1,0.1,2000
+IN-2025-001,12-10-2024,18-10-2024,North,Delhi,Electronics,Appliances,IFB Microwave Oven,15499,2,0.1,3000
+IN-2025-002,15-10-2024,20-10-2024,North,Chandigarh,Electronics,Appliances,LG Refrigerator,39999,1,0.1,7000
+IN-2025-003,20-10-2024,25-10-2024,North,Jaipur,Furniture,Beds,Nilkamal Queen Size Bed,42999,2,0.1,8000
+IN-2025-004,20-10-2024,25-10-2024,North,Delhi,Furniture,Beds,Durian King Size Bed,59999,1,0.1,8000
+IN-2025-005,25-10-2024,30-10-2024,South,Bangalore,Electronics,TVs,Sony Bravia OLED TV,82999,1,0.05,10000
+IN-2025-006,01-11-2024,05-11-2024,North,Delhi,Electronics,Mobiles,iPhone 14,79999,2,0,10000
+IN-2025-007,01-11-2024,06-11-2024,West,Ahmedabad,Electronics,Cameras,Canon EOS 3000D,31999,1,0.1,3000
+IN-2025-008,02-11-2024,06-11-2024,South,Bangalore,Furniture,Sofas,Urban Ladder Recliner Sofa,29999,3,0.1,6000
+IN-2025-009,02-11-2024,07-11-2024,North,Jaipur,Furniture,Shelves,Godrej Bookshelf,18999,1,0.1,2500
+IN-2025-009,03-11-2024,08-11-2024,West,Mumbai,Office Supplies,Notebooks,Classmate A5 Notebook,350,50,0,120
+IN-2025-010,03-11-2024,09-11-2024,South,Chennai,Furniture,Chairs,Durian Premium Chair,8999,3,0.1,1200
+IN-2025-011,04-11-2024,10-11-2024,East,Kolkata,Electronics,Laptops,HP Envy x360,74999,1,0.05,5000
+IN-2025-012,05-11-2024,12-11-2024,North,Lucknow,Furniture,Tables,Godrej Work Table,11499,2,0.1,2000
+IN-2025-013,06-11-2024,11-11-2024,South,Chennai,Electronics,TVs,Samsung Crystal UHD TV,34999,2,0,8000
+IN-2025-014,20-11-2024,26-11-2024,North,Gurgaon,Furniture,Cabinets,Godrej Wooden Cabinet,13999,1,0.1,2000
+IN-2025-015,03-12-2024,09-12-2024,East,Patna,Electronics,Appliances,Philips Air Fryer,12499,1,0.1,2000
+IN-2025-016,04-12-2024,10-12-2024,South,Madurai,Electronics,TVs,Sony Bravia OLED TV,84999,1,0.05,10000
+IN-2025-017,10-12-2024,15-12-2024,North,Varanasi,Electronics,Appliances,Samsung Microwave Oven,14499,1,0.1,2000
+IN-2025-018,15-12-2024,20-12-2024,West,Pune,Furniture,Beds,Nilkamal Queen Size Bed,42999,1,0.15,5500
+IN-2025-019,15-12-2024,20-12-2024,North,Delhi,Furniture,Beds,Durian King Size Bed,59999,1,0.1,8000
+IN-2025-020,15-12-2024,20-12-2024,South,Mysore,Furniture,Cabinets,Nilkamal Wooden Cabinet,12999,1,0.05,2500
+IN-2025-021,16-12-2024,22-12-2024,East,Guwahati,Office Supplies,Binders,Solo Ring Binder,499,25,0,200
+IN-2025-022,17-12-2024,23-12-2024,South,Bangalore,Electronics,Mobiles,OnePlus 11R,44999,2,0.05,5000
+IN-2025-023,18-12-2024,22-12-2024,North,Delhi,Electronics,Appliances,LG Refrigerator,39999,1,0.1,7000
+IN-2025-024,18-12-2024,24-12-2024,West,Surat,Furniture,Chairs,Durian Premium Chair,8999,3,0.1,1200
+IN-2025-025,19-12-2024,24-12-2024,East,Kolkata,Office Supplies,Markers,Faber-Castell Marker,250,100,0,500
+IN-2025-101,19-12-2024,26-12-2024,East,Dibrugarh,Electronics,Accessories,Apple AirPods Pro,24999,2,0.1,4000
+IN-2025-102,20-12-2024,25-12-2024,West,Nagpur,Electronics,Mobiles,Realme GT Neo 3,26999,2,0.1,5000
+IN-2025-103,30-12-2024,05-12-2024,West,Goa,Furniture,Bookcases,Spacewood Bookshelf,9999,2,0.1,2500
+IN-2025-104,06-01-2025,11-01-2025,North,Lucknow,Electronics,Mobiles,OnePlus Nord 3,29999,2,0.05,6000
+IN-2025-105,07-01-2025,12-01-2025,West,Pune,Furniture,Sofas,Urban Ladder Recliner Sofa,29999,1,0.15,6000
+IN-2025-106,07-01-2025,11-01-2025,West,Pune,Electronics,Accessories,JBL Bluetooth Speaker,4499,2,0.1,900
+IN-2025-107,08-01-2025,13-01-2025,East,Guwahati,Office Supplies,Binders,Kangaro Ring Binder,499,6,0,120
+IN-2025-108,08-01-2025,13-01-2025,East,Guwahati,Office Supplies,Markers,Faber-Castell Marker,250,20,0,70
+IN-2025-109,09-01-2025,14-01-2025,North,Jaipur,Furniture,Beds,Nilkamal King Size Bed,54999,1,0.1,7000
+IN-2025-110,10-01-2025,12-01-2025,South,Bangalore,Furniture,Chairs,Godrej Premium Chair,5499,4,0.1,1000
+IN-2025-111,10-01-2025,15-01-2025,North,Amritsar,Furniture,Beds,Durian Queen Size Bed,47999,1,0.1,7000
+IN-2025-112,10-01-2025,15-01-2025,South,Hyderabad,Furniture,Cabinets,IKEA Bookshelf,19999,1,0.1,3500
+IN-2025-113,11-01-2025,17-01-2025,West,Ahmedabad,Electronics,Appliances,LG Refrigerator 300L,34999,1,0.1,4000
+IN-2025-114,12-01-2025,15-01-2025,North,Delhi,Electronics,Mobiles,Samsung Galaxy A54,19999,2,0,4000
+IN-2025-115,12-01-2025,17-01-2025,East,Bhubaneswar,Electronics,Cameras,Nikon D3500 DSLR,45999,1,0.1,3500
+IN-2025-116,12-01-2025,16-01-2025,East,Bhubaneswar,Office Supplies,Staplers,Kangaro Heavy Duty Stapler,599,10,0.05,150
+IN-2025-117,13-01-2025,18-01-2025,North,Chandigarh,Electronics,TVs,Sony Bravia 4K TV,63999,1,0.05,4500
+IN-2025-118,14-01-2025,19-01-2025,South,Mysore,Furniture,Chairs,Hometown Dining Chair,3999,4,0.2,900
+IN-2025-119,18-01-2025,20-01-2025,North,Gurgaon,Office Supplies,Binders,Solo Ring Binder,499,5,0,120
+IN-2025-120,20-01-2025,25-01-2025,North,Jaipur,Electronics,Accessories,Boat Rockerz Headphones,1999,8,0.1,600
+IN-2025-121,23-01-2025,28-01-2025,West,Goa,Furniture,Chairs,Spacewood Office Chair,5999,4,0.1,1200
+IN-2025-122,03-02-2025,08-02-2025,South,Chennai,Electronics,Laptops,HP Envy x360,74999,1,0.05,5000
+IN-2025-123,05-02-2025,08-02-2025,West,Mumbai,Office Supplies,Paper,JK Copier A4 75 GSM,240,10,0,50
+IN-2025-124,05-02-2025,10-02-2025,West,Pune,Furniture,Sofas,Nilkamal Recliner Sofa,32999,1,0.15,5000
+IN-2025-125,05-02-2025,10-02-2025,East,Kolkata,Office Supplies,Notebooks,Classmate A5 Notebook,350,25,0,100
+IN-2025-201,07-02-2025,12-02-2025,South,Bangalore,Furniture,Tables,Spacewood Study Table,8999,1,0.2,1000
+IN-2025-202,07-02-2025,12-02-2025,East,Patna,Office Supplies,Paper,JK Copier A4 Paper,250,100,0,400
+IN-2025-203,09-02-2025,14-02-2025,West,Ahmedabad,Electronics,Accessories,Boat Rockerz Headphones,1999,5,0.1,800
+IN-2025-204,11-02-2025,16-02-2025,South,Hyderabad,Office Supplies,Notebooks,Classmate Executive Notebook,450,15,0.1,120
+IN-2025-205,15-02-2025,19-02-2025,South,Chennai,Electronics,Laptops,HP Envy x360,74999,1,0.05,2500
+IN-2025-206,15-02-2025,20-02-2025,West,Nagpur,Office Supplies,Binders,Solo Plastic Binder,399,12,0,100
+IN-2025-207,15-02-2025,20-02-2025,West,Pune,Furniture,Chairs,Durian Premium Chair,8999,2,0.1,1000
+IN-2025-208,15-02-2025,20-02-2025,East,Patna,Office Supplies,Paper,JK Copier A4 Paper,250,150,0,600
+IN-2025-209,16-02-2025,21-02-2025,East,Patna,Electronics,Cameras,Canon PowerShot G7X,49999,1,0.1,4000
+IN-2025-210,17-02-2025,22-02-2025,North,Varanasi,Furniture,Shelves,Nilkamal Wall Shelf,2599,3,0,650
+IN-2025-211,18-02-2025,24-02-2025,South,Coimbatore,Office Supplies,Paper,JK Bond A4 Paper,500,20,0.1,100
+IN-2025-212,19-02-2025,23-02-2025,West,Surat,Electronics,Mobiles,OnePlus 11R,44999,1,0.05,3000
+IN-2025-213,20-02-2025,25-02-2025,East,Dibrugarh,Furniture,Sofas,Durian Recliner Sofa,37999,1,0.15,5500
+IN-2025-214,20-02-2025,25-02-2025,North,Jaipur,Electronics,Accessories,Boat Rockerz Headphones,1999,5,0.1,400
+IN-2025-215,20-02-2025,25-02-2025,North,Jaipur,Electronics,Accessories,Boat Rockerz Headphones,1999,8,0.1,600
+IN-2025-216,21-02-2025,26-02-2025,North,Dehradun,Office Supplies,Notebooks,Navneet Spiral Notebook,450,10,0,120
+IN-2025-217,22-02-2025,27-02-2025,South,Trivandrum,Electronics,Appliances,Philips Air Fryer,12499,1,0.1,2000
+IN-2025-218,28-02-2025,03-03-2025,East,Bhubaneswar,Electronics,Accessories,Boat Wave Watch,2999,3,0.2,900
+IN-2025-219,01-03-2025,05-03-2025,North,Noida,Furniture,Beds,Durian King Size Bed,35999,2,0.1,6500
+IN-2025-220,05-03-2025,10-03-2025,South,Coimbatore,Furniture,Sofas,Nilkamal Recliner Sofa,32999,1,0.1,4500
+IN-2025-221,08-03-2025,12-03-2025,West,Surat,Office Supplies,Notebooks,Classmate Spiral Notebook,350,12,0.1,100
+IN-2025-222,10-03-2025,15-03-2025,South,Hyderabad,Furniture,Shelves,Godrej Wall Shelf,1899,4,0,500
+IN-2025-223,12-03-2025,17-03-2025,North,Jaipur,Electronics,Cameras,Canon EOS 3000D DSLR,39999,1,0.15,5000
+IN-2025-224,12-03-2025,17-03-2025,West,Ahmedabad,Electronics,Appliances,Philips Air Fryer,12499,2,0.1,2000
+IN-2025-225,13-03-2025,18-03-2025,West,Surat,Furniture,Shelves,Godrej Wall Shelf,1899,3,0,450
+IN-2025-401,14-03-2025,19-03-2025,North,Gurgaon,Electronics,TVs,LG OLED TV,87999,1,0.05,5000
+IN-2025-402,15-03-2025,20-03-2025,West,Ahmedabad,Electronics,Appliances,Philips Mixer Grinder,6499,1,0.1,1000
+IN-2025-403,15-03-2025,20-03-2025,East,Shillong,Office Supplies,Staplers,Kangaro Stapler,399,10,0,90
+IN-2025-404,15-03-2025,20-03-2025,South,Coimbatore,Furniture,Cabinets,Nilkamal Wooden Cabinet,15999,1,0.1,3000
+IN-2025-405,16-03-2025,21-03-2025,East,Shillong,Office Supplies,Staplers,Camlin Stapler Set,150,10,0,30
+IN-2025-406,17-03-2025,22-03-2025,West,Goa,Electronics,Appliances,IFB Microwave Oven,15499,1,0.1,2000
+IN-2025-407,18-03-2025,23-03-2025,North,Jaipur,Furniture,Sofas,Urban Ladder L-Shaped Sofa,44999,1,0.15,6000
+IN-2025-408,19-03-2025,24-03-2025,South,Mysore,Office Supplies,Markers,Camlin Whiteboard Marker,200,12,0,45
+IN-2025-409,20-03-2025,25-03-2025,East,Kolkata,Furniture,Tables,Nilkamal Study Table,7999,1,0.2,1200
+IN-2025-410,20-03-2025,25-03-2025,East,Patna,Furniture,Bookcases,Godrej Bookshelf,20999,1,0.1,4000
+IN-2025-411,20-03-2025,25-03-2025,North,Chandigarh,Furniture,Cabinets,Godrej Wooden Cabinet,13999,1,0.1,2000
+IN-2025-412,25-03-2025,30-03-2025,East,Patna,Office Supplies,Markers,Camlin Permanent Marker,150,8,0,40
+IN-2025-413,30-03-2025,03-04-2025,North,Lucknow,Electronics,TVs,Sony Bravia OLED TV,77999,1,0.05,3000
+IN-2025-414,01-04-2025,05-04-2025,West,Mumbai,Furniture,Chairs,Urban Ladder Dining Chair,4599,4,0.1,800
+IN-2025-415,02-04-2025,06-04-2025,North,Delhi,Electronics,TVs,Samsung Crystal UHD TV,34999,1,0.05,3000
+IN-2025-416,03-04-2025,08-04-2025,South,Chennai,Office Supplies,Paper,Bilt Copier Paper,220,25,0,75
+IN-2025-417,04-04-2025,09-04-2025,East,Kolkata,Electronics,Laptops,Asus VivoBook 15,55999,1,0.1,4000
+IN-2025-418,05-04-2025,10-04-2025,South,Madurai,Electronics,Mobiles,iPhone 14,79999,1,0.05,6000
+IN-2025-419,12-04-2025,17-04-2025,East,Bhubaneswar,Furniture,Sofas,Urban Ladder L-Shaped Sofa,44999,1,0.15,7000
+IN-2025-420,15-04-2025,20-04-2025,West,Surat,Office Supplies,Markers,Faber-Castell Marker,250,50,0,200
+IN-2025-421,20-04-2025,25-04-2025,North,Chandigarh,Furniture,Chairs,Godrej Office Chair,7499,3,0.05,1500
+IN-2025-422,20-04-2025,25-04-2025,North,Varanasi,Electronics,TVs,Samsung Crystal UHD TV,34999,1,0.05,3000
+IN-2025-423,21-04-2025,26-04-2025,West,Nagpur,Electronics,Mobiles,Realme Narzo 60,18999,3,0,4500
+IN-2025-424,22-04-2025,27-04-2025,North,Chandigarh,Furniture,Chairs,Godrej Office Chair,6999,4,0.05,1200
+IN-2025-425,23-04-2025,28-04-2025,South,Trivandrum,Electronics,Accessories,Apple AirPods Pro,24999,2,0.1,5000
+IN-2025-506,24-04-2025,29-04-2025,East,Dibrugarh,Office Supplies,Paper,JK Copier Paper A3,450,15,0,90
+IN-2025-507,25-04-2025,30-04-2025,South,Trivandrum,Electronics,Accessories,Mi Smart Band 6,3999,6,0.1,1200
+IN-2025-508,25-04-2025,30-04-2025,North,Varanasi,Furniture,Tables,Nilkamal Coffee Table,5499,2,0.2,1200
+IN-2025-509,01-05-2025,05-05-2025,North,Delhi,Furniture,Chairs,Durian Premium Office Chair,6499,3,0.1,1200
+IN-2025-512,01-05-2025,06-05-2025,South,Trivandrum,Furniture,Shelves,Godrej Wall Shelf,2599,3,0,650
+IN-2025-513,02-05-2025,06-05-2025,South,Bangalore,Electronics,Mobiles,Samsung Galaxy Z Flip,84999,1,0.05,5000
+IN-2025-514,03-05-2025,08-05-2025,West,Mumbai,Office Supplies,Notebooks,Classmate A5 Notebook,350,15,0,80
+IN-2025-515,04-05-2025,09-05-2025,East,Kolkata,Furniture,Tables,Godrej Work Table,11499,1,0.2,2000
+IN-2025-516,05-05-2025,10-05-2025,North,Lucknow,Electronics,Laptops,Apple MacBook Air,104999,1,0.1,8000
+IN-2025-517,06-05-2025,12-05-2025,South,Chennai,Furniture,Sofas,Urban Ladder Modular Sofa,42999,1,0.15,6000
+IN-2025-518,10-05-2025,15-05-2025,East,Guwahati,Electronics,Laptops,MacBook Air M2,104999,1,0.05,8000
+IN-2025-519,24-05-2025,29-05-2025,East,Shillong,Office Supplies,Markers,Camlin Permanent Marker,199,15,0,50
+IN-2025-603,25-05-2025,30-05-2025,East,Guwahati,Furniture,Beds,Peps Queen Size Bed,27999,1,0.1,4800
+IN-2025-607,25-05-2025,30-05-2025,North,Gurgaon,Electronics,Cameras,Nikon Z50 Mirrorless Camera,72999,1,0.1,6500
+IN-2025-609,30-05-2025,05-06-2025,North,Amritsar,Office Supplies,Paper,Bilt Copier Paper,220,20,0,75
